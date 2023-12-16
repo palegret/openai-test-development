@@ -61,9 +61,9 @@ openai-env/
 .env
 </pre>
 
-To read environment variables from a `.env` file, you must install the `dotenv` package:
+To read environment variables from a `.env` file, you must install the `python-dotenv` package:
 
-`pip install --upgrade dotenv`
+`pip install --upgrade python-dotenv`
 
 Use `dotenv` in your script as follows:
 
