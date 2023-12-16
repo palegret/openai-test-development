@@ -52,7 +52,7 @@ Set environment variable in the current session (Windows).
 ### Setup your API key for a single project
 Create a local `.env` file containing the API key in the project root, then use that API key in code:
 
-`OPENAI_API_KEY=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`
+`OPENAI_API_KEY=`*key value*
 
 *Add* `.env` *to* `.gitignore` *in the project root to exclude it from source control, along with the* `openai-env` *Python virtual environment created above:*
 
